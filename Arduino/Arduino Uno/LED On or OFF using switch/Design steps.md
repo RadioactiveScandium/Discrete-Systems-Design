@@ -1,4 +1,4 @@
-First, make sure to power off your Arduino – remove any USB cable.
+* First, make sure to power off your Arduino – remove any USB cable.
 
 Plug a black wire between the blue line of the breadboard and a ground (GND) pin on the Arduino board.
 

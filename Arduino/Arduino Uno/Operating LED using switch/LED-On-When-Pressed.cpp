@@ -1,7 +1,7 @@
 #define LED_PIN 8
 #define BUTTON_PIN 7
 
-// Inspiration --> https://roboticsbackend.com/arduino-turn-led-on-and-off-with-button/
+// Reference --> https://roboticsbackend.com/arduino-turn-led-on-and-off-with-button/
 
 void setup() {
   pinMode(LED_PIN, OUTPUT);
